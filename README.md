@@ -23,12 +23,11 @@ As big IT companies require good programming knowledge, this will be a guide.
 ### Data Structures
 
 1. Array/List : Usually we can assign only one value per variable. Array let us to use single variable for multiple values.
-
-> A contiguous area of memory which holds values indexed with contiguous integers, normally starting from 0.
-
    - pop()
    - append(): inserts value at the end of the list.
    - reverse()
    - sort()
    - remove(value)
    - insert(index, value)
+
+> A contiguous area of memory which holds values indexed with contiguous integers, normally starting from 0.
