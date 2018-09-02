@@ -11,10 +11,8 @@ As big IT companies require good programming knowledge, this will be a guide.
 
 1. Adding a shebang line:
 
-`#!/usr/bin/python3`
-
+`#!/usr/bin/python3
 Shebang line that defines where the interpreter is located generally on linux.
-
-`#!/usr/bin/env python3`
-
+#!/usr/bin/env python3
 This is used for portability over all Operating System.
+`
