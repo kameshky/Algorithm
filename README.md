@@ -9,7 +9,7 @@ As big IT companies require good programming knowledge, this will be a guide.
 
 ## Starting the journey
 
-### General programming rules and knowledge 
+### General programming knowledge and know-to of Python 
 
 1. Adding a shebang line:
 - `#!/usr/bin/python3`:Shebang line that defines where the interpreter is located generally on linux.
