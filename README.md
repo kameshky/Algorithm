@@ -24,7 +24,7 @@ As big IT companies require good programming knowledge, this will be a guide.
      Some code that may generates error
      example: n = 20/0
  except ValueError:
-                  print("Deviding by zero is not allowed")
+                  print("Deviding by zero is not allowed")`
        
 
 
