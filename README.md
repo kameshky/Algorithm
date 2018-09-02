@@ -1,3 +1,3 @@
-Algorithms
+#Practice Python
 
-Linear Search: This algorith search given numbers from first element to last and provide index if number is present. Time Complexity of Linear Search is O(n).
+Starting my python practice as a aim to clear an interview for big it company
