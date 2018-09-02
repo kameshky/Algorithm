@@ -12,12 +12,12 @@ As big IT companies require good programming knowledge, this will be a guide.
 ### General programming knowledge and know-to of Python 
 
 1. Adding a shebang line:
-- `#!/usr/bin/python3`:Shebang line that defines where the interpreter is located generally on linux.
-- `#!/usr/bin/env python3`:This is used for portability over all Operating System.
+   - `#!/usr/bin/python3`:Shebang line that defines where the interpreter is located generally on linux.
+   - `#!/usr/bin/env python3`:This is used for portability over all Operating System.
 
 2. `if __name__ == "__main__"` :Before executing the code Python iterpreter defines some variables, one of them is `__name__`. If script or program is run as a main program `__name__` is assigned a value `__main__`. If imported from another module, that module's name will be assigned to `__name__`.
 
-- By doing this main check we assure that following code will run only when script is run as main program.
+   - By doing this main check we assure that following code will run only when script is run as main program.
 
 
 ### Data Structures
@@ -26,9 +26,9 @@ As big IT companies require good programming knowledge, this will be a guide.
 
 > A contiguous area of memory which holds values indexed with contiguous integers, normally starting from 0.
 
-- pop()
-- append(): inserts value at the end of the list.
-- reverse()
-- sort()
-- remove(value)
-- insert(index, value)
+   - pop()
+   - append(): inserts value at the end of the list.
+   - reverse()
+   - sort()
+   - remove(value)
+   - insert(index, value)
