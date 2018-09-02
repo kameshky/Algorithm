@@ -22,12 +22,9 @@ As big IT companies require good programming knowledge, this will be a guide.
 3. Errors are not always bad: If a program generates some error it does not always mean you have done something wrong. Sometimes error can occur due to wrong user input or a process failure. So sometimes errors are expected we just need to handle them.
 
 `try:
-
      Some code that may generates error
      example: n = 20/0
- 
  except ValueError:
-                  
                   print("Deviding by zero is not allowed")`
        
 
