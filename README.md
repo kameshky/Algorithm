@@ -17,7 +17,7 @@ As big IT companies require good programming knowledge, this will be a guide.
 
 2. if __name__ = "__main__" :Before executing the code Python iterpreter defines some variables, one of them is '__name__'. If script or program is run as a main program '__name__' is assigned a value "__main__". If imported from another module, that module's name will be assigned to '__name__'.
 
-By doing this main check we assure that following code will run only when script is run as main program.
+- By doing this main check we assure that following code will run only when script is run as main program.
 
 
 ### Data Structures
