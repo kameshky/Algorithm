@@ -1,3 +1,3 @@
 # Practice Python
 
-Starting my python practice as a aim to clear an interview for big it company
+Comeback refrence guide to my code and learning. Starting my python practice as a aim to clear an interview for core IT Company.
