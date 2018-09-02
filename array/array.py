@@ -33,6 +33,16 @@ def array():
 def main():
     array()
     
+"""
+before executing the code python interpreter defines many variables such as __name__
+if we are running our script as a main program rather than importing it "__name__" 
+variable get assigned value "__main__"
+
+one use case is if we do not want some code to run if the file is imported rather than 
+run as a main program
+
+https://stackoverflow.com/questions/419163/what-does-if-name-main-do
+"""
 if __name__ == "__main__":
     main()
     
