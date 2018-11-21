@@ -57,6 +57,17 @@ class LinkedList(object):
             prev = current
             current = current.get_next()
 
+    def insert(self, value, prev_value):
+        node = Node(value)
+        current = self.head_
+        while(current):
+            if(current.get_data() == prev_value):
+                node.set_next(current.get_next())
+                current.set_next(node)
+                return
+            else:
+                current = current.get_next()
+
     def append(self, value):
         node = Node(value)
         current = self.head_
